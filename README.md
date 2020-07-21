@@ -6,7 +6,7 @@
   Flexbox
 </h3>
 
-<p align="center">Recriando a interface do Twitter utlizando os conceitos de Flexbox</p>
+<p align="center">Recriando a interface do Twitter utilizando os conceitos de Flexbox</p>
 
 <p align="center">
   <a href="#como-executar-o-projeto">Como executar o projeto</a>
