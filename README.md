@@ -15,10 +15,10 @@
 <br>
 
 <p align="center">
-  <img alt="Novo e Detalhe" src=".github/page.png" width="100%">
+  <img alt="Novo e Detalhe" src=".github/page.jpg" width="100%">
 </p>
 
 ## Como executar o projeto
 
 - Execute `git clone https://github.com/eliasmcastro/rocketseat-bootcamp-gostack-bonus-flexbox.git` para clonar este repositório
-- Abra o arquivos index.html que está dentro da pasta no seu navegador de preferência para ver o resultado
+- Abra o arquivo index.html que está dentro da pasta no seu navegador de preferência para ver o resultado
