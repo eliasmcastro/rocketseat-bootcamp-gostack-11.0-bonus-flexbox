@@ -6,7 +6,7 @@
 
 body {
   background: #e6ecf0;
-  font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
+  font-family: 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
   text-rendering: optimizeLegibility !important;
   -webkit-font-smoothing: antialiased !important;
 }
@@ -73,7 +73,7 @@ header#main-header div.side input {
   border-radius: 16px;
   color: #667581;
   font-size: 12px;
-  background: #f5f8fa url("./images/search.svg") no-repeat 190px center;
+  background: #f5f8fa url('./images/search.svg') no-repeat 190px center;
 }
 
 header#main-header div.side img {
@@ -141,7 +141,7 @@ div.bar .content ul li {
 }
 
 div.bar .content ul li.active::after {
-  content: "";
+  content: '';
   width: 100%;
   height: 2px;
   position: absolute;
@@ -407,7 +407,7 @@ div.wrapper-content aside.widgets .widget .title a {
 }
 
 div.wrapper-content aside.widgets .widget .title a::before {
-  content: "";
+  content: '';
   width: 2px;
   height: 2px;
   border-radius: 50%;
