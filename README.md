@@ -20,5 +20,5 @@
 
 ## Como executar o projeto
 
-- Execute `git clone https://github.com/eliasmcastro/rocketseat-bootcamp-gostack-twitter-flexbox.git` para clonar este repositório
+- Execute `git clone https://github.com/eliasmcastro/rocketseat-gostack-twitter-flexbox.git` para clonar este repositório
 - Abra o arquivo index.html que está dentro da pasta no seu navegador de preferência para ver o resultado
